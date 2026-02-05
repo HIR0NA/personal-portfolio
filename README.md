@@ -20,7 +20,8 @@ Welcome to my personal portfolio website. This project is designed with a **Futu
 * ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) **Interactivity**
 
 ## 📸 Screenshots
-*(เดี๋ยวเราเอารูปหน้าเว็บสวยๆ มาใส่ตรงนี้ทีหลังครับ)*
+<img width="1904" height="906" alt="image" src="https://github.com/user-attachments/assets/d68cd17d-b36e-4315-9d40-4a870d01a5cf" />
+
 
 ---
 Developed with ❤️ by **HIRONA** (Game)
